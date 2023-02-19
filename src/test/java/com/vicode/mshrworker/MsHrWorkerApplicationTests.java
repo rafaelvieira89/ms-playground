@@ -1,4 +1,4 @@
-package com.example.mshrworker;
+package com.vicode.mshrworker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.example.mshrworker;
+package com.vicode.mshrworker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,7 @@ public class MsHrWorkerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MsHrWorkerApplication.class, args);
+
     }
 
 }
